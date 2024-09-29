@@ -90,7 +90,7 @@ nav{
 
 }
 
-.notes,.yaya,.recipe{
+.concert,.yaya,.recipe{
     background-color: #437F97;
 }
 
@@ -101,7 +101,7 @@ nav{
 
 section{
     border-radius: 30px;
-    padding: 5%;
+    padding: 5.5%;
     width: 55%;
 }
 
