@@ -82,8 +82,9 @@ nav{
     padding: 2%;
     height: 74vh; 
     overflow-y: scroll;
+    /* scrollbar-color: #01295F white; */
+    scrollbar-width: none;
 }
-
 
 .alarms,.music,.yt,.dethklok{
     background-color: #FFB30F;
