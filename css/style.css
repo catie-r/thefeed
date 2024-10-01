@@ -64,6 +64,14 @@ audio{
     z-index: 1;
 }
 
+.logohover:hover{
+    opacity: 100%;
+}
+
+.homelogohover:hover{
+    opacity: 100%;
+}
+
 nav{
     background-color: #01295F;
     width: 10%;
@@ -84,6 +92,16 @@ nav{
     overflow-y: scroll;
     /* scrollbar-color: #01295F white; */
     scrollbar-width: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    opacity: 50%;
+    color: #01295F;
 }
 
 .alarms,.music,.yt,.dethklok{
